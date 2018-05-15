@@ -13,9 +13,25 @@ must prove their current state of happiness.
 
 ![happy-house](https://user-images.githubusercontent.com/29506542/40081957-28f65c76-58ad-11e8-81da-086b13c434cc.jpg)
 
-### Requirements:
+### Dependencies:
 1. Python 3.6
 2. Numpy
 3. Keras with tensorflow backend
 4. Matplotlib
 5. pydot
+
+### Step by Step Implementation of HappyHouse:
+- [x] Install all the latest dependencies.
+- [x] Clone the repository in your local system.
+- [x] Make sure all folders are in same location
+- [x] Open any python3.6 IDE and execute HappyHouse.py
+- [x] Visualize the results. 
+
+*If you want to test with you own image, then the replace your picture in images folder
+and execute HappyHouse.py, Hopefully it should work* 
+> Note: Make sure the dimension of image is matched with the originally tested one.
+
+**The Repository also has notebook(.ipynb) file, which has detailed explnation of
+project and also implmentation steps, do check it out once**
+
+> Thank You, cheers. :+1:
